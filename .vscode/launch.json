@@ -1,0 +1,119 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadTutorial",
+            "request": "launch",
+            "mainClass": "ThreadTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueTutorial",
+            "request": "launch",
+            "mainClass": "QueueTutorial",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetTutorial",
+            "request": "launch",
+            "mainClass": "SetTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FunctionalProgramming",
+            "request": "launch",
+            "mainClass": "FunctionalProgramming"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamAPITutorial",
+            "request": "launch",
+            "mainClass": "StreamAPITutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapTutorial",
+            "request": "launch",
+            "mainClass": "MapTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListTutorial",
+            "request": "launch",
+            "mainClass": "LinkedListTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListTutorial",
+            "request": "launch",
+            "mainClass": "ArrayListTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListTutorial",
+            "request": "launch",
+            "mainClass": "ListTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - List",
+            "request": "launch",
+            "mainClass": "List"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FixedThreadPoolTutorial",
+            "request": "launch",
+            "mainClass": "FixedThreadPoolTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FixedThreadPoolTutorial",
+            "request": "launch",
+            "mainClass": "FixedThreadPoolTutorial",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadPoolTutorial",
+            "request": "launch",
+            "mainClass": "ThreadPoolTutorial",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CallableTutorial",
+            "request": "launch",
+            "mainClass": "CallableTutorial",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunnableTutorial",
+            "request": "launch",
+            "mainClass": "RunnableTutorial",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadTutorial",
+            "request": "launch",
+            "mainClass": "ThreadTutorial",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Threads",
+            "request": "launch",
+            "mainClass": "Threads",
+            "projectName": "Java Roadmap Learn_27492f80"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamAPItutorial",
+            "request": "launch",
+            "mainClass": "StreamAPItutorial"
+        }
+    ]
+}
