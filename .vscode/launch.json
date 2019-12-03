@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SynchronousTutorial",
+            "request": "launch",
+            "mainClass": "SynchronousTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadInterferenceDemo",
+            "request": "launch",
+            "mainClass": "ThreadInterferenceDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SynchronizationTutorial",
+            "request": "launch",
+            "mainClass": "SynchronizationTutorial"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ThreadTutorial",
             "request": "launch",
             "mainClass": "ThreadTutorial"
