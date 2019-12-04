@@ -20,7 +20,7 @@ class SynchronousCounter {
 }
 
 
-public class SynchronousTutorial {
+public class SynchronizedTutorial {
     public static void main(String[] args) {
         
         ExecutorService threadPool = Executors.newFixedThreadPool(2);

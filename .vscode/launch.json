@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AccumulatorTutorial",
+            "request": "launch",
+            "mainClass": "AccumulatorTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdderTutorial",
+            "request": "launch",
+            "mainClass": "AdderTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SynchronizedTutorial",
+            "request": "launch",
+            "mainClass": "SynchronizedTutorial"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SynchronousTutorial",
             "request": "launch",
             "mainClass": "SynchronousTutorial"
