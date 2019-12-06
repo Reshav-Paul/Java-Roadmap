@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PhaserTutorial",
+            "request": "launch",
+            "mainClass": "PhaserTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CyclicBarrierTutorial",
+            "request": "launch",
+            "mainClass": "CyclicBarrierTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountDownLatchTutorial",
+            "request": "launch",
+            "mainClass": "CountDownLatchTutorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountdownLatchTutorial",
+            "request": "launch",
+            "mainClass": "CountdownLatchTutorial"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ThreadLocalTutorial",
             "request": "launch",
             "mainClass": "ThreadLocalTutorial",
