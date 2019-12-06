@@ -2,6 +2,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ThreadLocalTutorial",
+            "request": "launch",
+            "mainClass": "ThreadLocalTutorial",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForkJoinPoolTutorial",
+            "request": "launch",
+            "mainClass": "ForkJoinPoolTutorial"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AccumulatorTutorial",
             "request": "launch",
             "mainClass": "AccumulatorTutorial"
