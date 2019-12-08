@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SemaphoreTutorial",
+            "request": "launch",
+            "mainClass": "SemaphoreTutorial",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LockTutorial",
+            "request": "launch",
+            "mainClass": "LockTutorial",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PhaserTutorial",
             "request": "launch",
             "mainClass": "PhaserTutorial"
