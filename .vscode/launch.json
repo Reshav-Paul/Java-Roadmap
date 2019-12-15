@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MainApp",
+            "request": "launch",
+            "mainClass": "MultiThreadedServerApp.MainApp",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainApp",
+            "request": "launch",
+            "mainClass": "MultiThreadedApp.MainApp",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EchoClient",
+            "request": "launch",
+            "mainClass": "EchoApp.EchoClient",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldClient",
+            "request": "launch",
+            "mainClass": "HelloWorldApp.HelloWorldClient",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientSocket",
+            "request": "launch",
+            "mainClass": "ClientSocket",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ServerSideSocket",
+            "request": "launch",
+            "mainClass": "ServerSideSocket",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SemaphoreTutorial",
             "request": "launch",
             "mainClass": "SemaphoreTutorial",
