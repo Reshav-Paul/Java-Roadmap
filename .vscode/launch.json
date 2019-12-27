@@ -2,6 +2,67 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EchoClient",
+            "request": "launch",
+            "mainClass": "EchoClient",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EchoServer",
+            "request": "launch",
+            "mainClass": "EchoServer",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiPortNIOServer",
+            "request": "launch",
+            "mainClass": "MultiPortNIOServer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiPortNIOServer",
+            "request": "launch",
+            "mainClass": "MultiPortNIOServer",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DirScanner",
+            "request": "launch",
+            "mainClass": "DirScanner",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileCopyNIO",
+            "request": "launch",
+            "mainClass": "FileCopyNIO",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SinglePortNIOServer",
+            "request": "launch",
+            "mainClass": "SinglePortNIOServer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SinglePortNIOServer",
+            "request": "launch",
+            "mainClass": "SinglePortNIOServer",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileCopy",
+            "request": "launch",
+            "mainClass": "FileCopy",
+            "projectName": "JavaRoadmapTutorial_e204891a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MainApp",
             "request": "launch",
             "mainClass": "MultiThreadedServerApp.MainApp",
